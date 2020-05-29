@@ -37,7 +37,6 @@
 <br>
 
 ## 프로젝트 결과
-![./picture/13.PNG](./picture/13.PNG)
 ![./picture/14.PNG](./picture/14.PNG)
 ![./picture/15.PNG](./picture/15.PNG)
 ![./picture/16.PNG](./picture/16.PNG)
