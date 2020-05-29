@@ -8,12 +8,18 @@
 - junhong Ahn 안준홍
 - jeonghyun Jeong 정정현
 
+<br>
+<br>
+
 ## 프로젝트 소개
 
 ![./picture/1.PNG](./picture/1.PNG)
 ![./picture/2.PNG](./picture/2.PNG)
 ![./picture/3.PNG](./picture/3.PNG)
 ![./picture/4.PNG](./picture/4.PNG)
+
+<br>
+<br>
 
 ## 프로젝트 계획
 ![./picture/5.PNG](./picture/5.PNG)
@@ -26,6 +32,9 @@
 ![./picture/12.PNG](./picture/12.PNG)
 ![./picture/13.PNG](./picture/13.PNG)
 
+
+<br>
+<br>
 
 ## 프로젝트 결과
 ![./picture/13.PNG](./picture/13.PNG)
